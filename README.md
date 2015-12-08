@@ -26,3 +26,5 @@ As a result, you *have to* fire up the server with `bundle exec rackup`. Doing i
 ## Step Two: Let's Test Some JavaScript
 
 We're going to step through six examples. Five of them have opportunities for you to cut your teeth on writing some Qunit tests.
+Examples live in the examples folder and each of those folder have README's for instructions on how to create passing test.
+
